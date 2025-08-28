@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_2_DATOS_25550692"/>
+        <attribute name="authors" value="suzet"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 04:28:43 p. m."/>
+        <attribute name="created" value="c3V6ZXQ7U1VaRVRIX0FMVklEUkVaOzIwMjUtMDgtMjY7MDQ6MjI6MjUgcC4gbS47MzIzMA=="/>
+        <attribute name="edited" value="c3V6ZXQ7U1VaRVRIX0FMVklEUkVaOzIwMjUtMDgtMjY7MDQ6Mjg6NDMgcC4gbS47MTszMzQ0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;SUZETH ALVIDREZ&quot;" newline="True"/>
+            <output expression="1000" newline="True"/>
+            <output expression="52.3" newline="True"/>
+            <output expression="true" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
