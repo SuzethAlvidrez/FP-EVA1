@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_5_VARIABLES_25550692"/>
+        <attribute name="authors" value="suzet"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-28 04:54:06 p. m."/>
+        <attribute name="created" value="c3V6ZXQ7U1VaRVRIX0FMVklEUkVaOzIwMjUtMDgtMjg7MDQ6MTY6MjIgcC4gbS47MzIzMg=="/>
+        <attribute name="edited" value="c3V6ZXQ7U1VaRVRIX0FMVklEUkVaOzIwMjUtMDgtMjg7MDQ6NTQ6MDYgcC4gbS47MjszMzQ1"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Nombre" type="String" array="False" size=""/>
+            <declare name="Edad" type="Integer" array="False" size=""/>
+            <assign variable="Nombre" expression="&quot;Suzeth Alvidrez&quot;"/>
+            <assign variable="Edad" expression="18"/>
+            <output expression="Nombre" newline="True"/>
+            <output expression="Edad" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
